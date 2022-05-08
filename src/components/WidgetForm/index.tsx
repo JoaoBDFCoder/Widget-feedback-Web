@@ -70,7 +70,7 @@ export function WidgetForm() {
       )}
 
       <footer className="text-xs text-neutral-400">
-        Feito com ♥ por <a className="underline underline-offset-1" href="https://www.linkedin.com/in/jo%C3%A3o-batista-6509511ab/://rocketseat.com.br">João Batista</a>
+        Feito com ♥ por <a className="underline underline-offset-1" href="https://www.linkedin.com/in/jo%C3%A3o-batista-6509511ab/">João Batista</a>
       </footer>
     </div>
   );
